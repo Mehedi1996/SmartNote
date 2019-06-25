@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SmartHomeNote</string>
+    <string name="logIn_Here">Go LogIN Page</string>
+    <string name="register">Register</string>
+    <string name="RegEmail">Email:</string>
+    <string name="RegPassword">Password:</string>
+    <string name="user_login">User LogIn</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="regHere">Have no account Registration here</string>
+    <string name="SignUP">Signup</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">1</string>
+    <string name="ettitle">etTitle</string>
+    <string name="etdescription">etDescription</string>
+    <string name="etpriority">etPriority</string>
+
+
+</resources>

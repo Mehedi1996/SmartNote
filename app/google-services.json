@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227899360171",
+    "firebase_url": "https://smarthomenote.firebaseio.com",
+    "project_id": "smarthomenote",
+    "storage_bucket": "smarthomenote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227899360171:android:27c43fe14488e3e2",
+        "android_client_info": {
+          "package_name": "com.example.smarthomenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227899360171-qsadapl50763b4b9ud27osfise0ed4g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthomenote",
+            "certificate_hash": "822d6fcc10c47777f1fee1f129a0009743e9636f"
+          }
+        },
+        {
+          "client_id": "227899360171-39ipk5lqj8piprrv878p093u33dhbrme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5w2I9JvgcmzVlJBkocNGun4x0qVyWxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227899360171-39ipk5lqj8piprrv878p093u33dhbrme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
